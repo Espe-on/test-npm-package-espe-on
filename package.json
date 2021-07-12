@@ -12,8 +12,11 @@
   ],
   "author": "Joseph Crawley <contact@josephcrawley.dev> (https://github.com/Espe-on)",
   "license": "ISC",
-  "repository" : {
-	  "type": "git",
-	  "url" : "https://github.com/Espe-on/test-npm-package-espe-on"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Espe-on/test-npm-package-espe-on"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
