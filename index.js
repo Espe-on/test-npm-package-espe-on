@@ -1,5 +1,5 @@
-var colors = require ('colors')
+const colors = require ('colors')
 
 exports.printMsg = function(){
-	console.log("Hello there, this is a test package".red);
+	console.log(colors.red("Hello there, this is a test package"));
 }
